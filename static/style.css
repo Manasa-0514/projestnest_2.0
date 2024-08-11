@@ -1,9 +1,0 @@
-#videoContainer {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 500%;
-    height: 200%;
-    background-color: #333; /* Dark background for video container */
-    z-index: -1; /* Ensure the video is behind other content */
-}
